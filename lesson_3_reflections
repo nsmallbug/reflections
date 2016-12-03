@@ -1,11 +1,8 @@
-1. When would you want to use a remote repository rather than keeping all your work local?
+When would you want to use a remote repository rather than keeping all your work
+local?
 
-    It's good idea to use a remote repo in several cases:
-    	- when I'm working on a project not by myself;
-    	- when I'm working on a project by myself, but using different computers;
-    	- when I'm working on a project by myself using one computer - to have some extra copies of work that have been done;
-    	- when I want to show or share my work with anoter people;
-    You know? I think it's a good idea to use a remote repo as often, as possible.
+    Fill in your answer here
+
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
